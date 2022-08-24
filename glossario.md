@@ -15,12 +15,15 @@
 - Marco Civil da Internet (lei nº 12.965/2014)
     - Lei que disciplina o uso da Internet no Brasil por meio da previsão de princípios, garantias, direitos e deveres para quem faz uso da rede, bem como da determinação de diretrizes para a atuação do Estado.
 
-## Dicionário
+## Conceitos e Termos
+- Compliance
+    - Conjunto de mecanismos e procedimentos que visam transparência vertical e horizontal, garantindo proteção da integridade das empresas, as mantendo em conformidade com as leis, padrões éticos e regulamentos.
+
 - Exaurido
-    - Ato de após conseguir um resultado continuar agredidindo o bem jurídico.
+    - Ato de após conseguir um resultado continuar agredindo o bem jurídico.
 
 - Lei
-    - Regra prescrita soberana de uma sociedade, onde os idivíduos devem cumprir.
+    - Regra prescrita soberana de uma sociedade, onde os indivíduos devem cumprir.
 
 - Norma
     - Conjunto de regras que visam padronizar a conduta social, guiando o corportamento dos cidadãos.
@@ -28,5 +31,5 @@
 - Pena
     - Punição aplicada a um ato repreensível na sociedade.
 
-- Regulamentação
-    - Ato de regulamentar é introduzir um conjunto de regras/normas.
+- Regulamentos
+    - São atos administrativos, postos em vigência por decreto, para especificar os mandamentos da lei ou prover situações ainda não disciplinadas por lei. O regulamento, tem a missão de explicá-la e de prover sobre minúcias não abrangidas pela norma geral editada pelo Legislativo.
