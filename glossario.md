@@ -33,3 +33,20 @@
 
 - Regulamentos
     - São atos administrativos, postos em vigência por decreto, para especificar os mandamentos da lei ou prover situações ainda não disciplinadas por lei. O regulamento, tem a missão de explicá-la e de prover sobre minúcias não abrangidas pela norma geral editada pelo Legislativo.
+
+
+## Direto:
+- Anonimato
+    - Instrumento que conserva a privacidade e a segurança na internet e auxilia o exercício da liberdade de expressão.
+- Igualdade
+    - Todos os indivíduos devem ter acesso universal e aberto ao conteúdo da Internet, livre de priorização discriminatória, de filtragem ou controle de tráfego por motivos comerciais, políticos ou outros.
+- Imagem
+    - Oferecer, trocar, disponibilizar, transmitir, vender ou expor à venda, distribuir, publicar ou divulgar, por qualquer meio fotografia, vídeo ou outro registro audiovisual que sem o consentimento da da pessoa:
+- Informação
+    - Direito de informar e de ser informado e sobre o sigilo da fonte, é uma exigência mínima endereçada àqueles que desempenham uma profissão regulamentada.
+- Privacidade
+    - Garante que as pessoas não terão sua intimidade e vida privada expostas a terceiros sem o seu consentimento.
+- Segurança
+    - A guarda e a disponibilização dos registros de conexão e de acesso a aplicações de internet de que trata esta Lei, bem como de dados pessoais e do conteúdo de comunicações privadas, devem atender à preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.
+- Sigilo
+    - A inviolabilidade e sigilo do fluxo de suas comunicações e inviolabilidade e sigilo de suas comunicações privadas armazenadas, salvo por ordem judicial.
