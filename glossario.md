@@ -38,6 +38,12 @@
 ## Direto:
 - Anonimato
     - Instrumento que conserva a privacidade e a segurança na internet e auxilia o exercício da liberdade de expressão.
+- Assinatura Digital
+    - Tema mais segurança ao processo pois utiliza tecnologia criptográfica para preservar a identidade do usuário e só pode ser realizada por meio de certificado digital no padrão ICP-Brasil.
+- Certificado Digital
+    - A maneira como o certificado digital comprova a identidade de alguém ou de uma empresa é praticamente inviolável, sendo aceita legalmente. O sistema utiliza um par de chaves (pública e privada) criptográficas que nunca se repete.
+- Documento Eletrônico
+    - É acessível e interpretável por meio de um equipamento eletrônico, podendo ser registrado e codificado em forma analógica ou em dígitos binários.
 - Igualdade
     - Todos os indivíduos devem ter acesso universal e aberto ao conteúdo da Internet, livre de priorização discriminatória, de filtragem ou controle de tráfego por motivos comerciais, políticos ou outros.
 - Imagem
