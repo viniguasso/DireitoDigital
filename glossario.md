@@ -15,6 +15,9 @@
 - Marco Civil da Internet (lei nº 12.965/2014)
     - Lei que disciplina o uso da Internet no Brasil por meio da previsão de princípios, garantias, direitos e deveres para quem faz uso da rede, bem como da determinação de diretrizes para a atuação do Estado.
 
+- Lei do Software (lei nº. 9609/98)
+    - Lei que assegura ao criador de software sobre a proteção, comercialização, infrações, penalidades e estipula direitos e deveres em relação ao uso do seu "produto".
+
 ## Conceitos e Termos
 - Compliance
     - Conjunto de mecanismos e procedimentos que visam transparência vertical e horizontal, garantindo proteção da integridade das empresas, as mantendo em conformidade com as leis, padrões éticos e regulamentos.
