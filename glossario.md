@@ -18,15 +18,26 @@
 - Lei do Software (lei nº. 9609/98)
     - Lei que assegura ao criador de software sobre a proteção, comercialização, infrações, penalidades e estipula direitos e deveres em relação ao uso do seu "produto".
 
+***
+
 ## Conceitos e Termos
 - Compliance
     - Conjunto de mecanismos e procedimentos que visam transparência vertical e horizontal, garantindo proteção da integridade das empresas, as mantendo em conformidade com as leis, padrões éticos e regulamentos.
+
+- E-Governamment
+    - Uso das tecnologias da informação nos processos internos de governo e na entrega dos produtos e serviços do Estado tanto aos cidadãos como à indústria, e no uso de ferramentas eletrônicas e tecnologia da informação para aproximar governo ao cidadão.
+
+- E-Learning
+    - Forma de ensino a distância que utiliza computadores e recursos audiovisuais para aprimorar o aprendizado e existe por conta da generalização dos computadores permitindo a troca de mensangens instantâneas e o compartilhamento de materiais a distância .
 
 - Exaurido
     - Ato de após conseguir um resultado continuar agredindo o bem jurídico.
 
 - Lei
     - Regra prescrita soberana de uma sociedade, onde os indivíduos devem cumprir.
+
+- Marketing Digital
+    - Conjunto de estratégias pensadas em promover uma marca na internet, com o objetivo de promover sempre uma empresa e produtos.
 
 - Norma
     - Conjunto de regras que visam padronizar a conduta social, guiando o corportamento dos cidadãos.
@@ -37,6 +48,7 @@
 - Regulamentos
     - São atos administrativos, postos em vigência por decreto, para especificar os mandamentos da lei ou prover situações ainda não disciplinadas por lei. O regulamento, tem a missão de explicá-la e de prover sobre minúcias não abrangidas pela norma geral editada pelo Legislativo.
 
+***
 
 ## Direto:
 - Anonimato
